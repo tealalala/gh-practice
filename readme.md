@@ -9,8 +9,9 @@ Scenario: Created branch from master, but need to replace folders on branch back
 6. then you realize that you need to restore your branch folder to master!
 7. what do you do?
 
-Test Method:
 
+
+Test Method:
 METHOD 1: use `git checkout origin/master filename` to retrieve master's filename to local repo
 
     1. stay in the local folder file-of-interest
